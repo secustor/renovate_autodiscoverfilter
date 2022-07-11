@@ -5,7 +5,7 @@
   },
   "packageRules": [
     {
-      "matchCategories": ["ci"],
+      "matchCategories": ["cd"],
       "groupName": "argocd app" 
     }
   ]
