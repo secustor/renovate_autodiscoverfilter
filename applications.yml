@@ -12,5 +12,5 @@ kind: Application
 spec:
   source:
     repoURL: https://github.com/prometheus/prometheus.git
-    targetRevision: v2.24.0
+    targetRevision: v2.36.2
  
